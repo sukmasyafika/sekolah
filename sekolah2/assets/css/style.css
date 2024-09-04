@@ -54,3 +54,20 @@
   color: #0056b3;
   transform: scale(1.1);
 }
+
+/* jurusan */
+.card-img-top {
+  height: 200px; /* Sesuaikan tinggi gambar */
+  object-fit: cover; /* Memastikan gambar menyesuaikan dengan ukuran tanpa distorsi */
+}
+
+.card-body {
+  padding-bottom: 10px; /* Memberikan ruang untuk tombol */
+}
+
+.card {
+  position: relative;
+  height: 100%;
+  padding: 12px;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
