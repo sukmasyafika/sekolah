@@ -1,6 +1,4 @@
 * {
-  /* font-family: "Poppins", sans-serif;
-   */
   font-family: 'Jost', sans-serif;
 }
 
@@ -20,26 +18,6 @@
 .article-card:hover {
   transform: translateY(-10px);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-}
-
-.article-image {
-  max-height: 200px;
-  object-fit: cover;
-}
-
-.article-meta {
-  font-size: 0.9rem;
-  color: #6c757d;
-  margin-bottom: 10px;
-}
-
-.read-more {
-  color: #007bff;
-  text-decoration: none;
-}
-
-.read-more:hover {
-  text-decoration: underline;
 }
 
 .social-media a {
