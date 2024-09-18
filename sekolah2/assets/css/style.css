@@ -2,6 +2,14 @@
   font-family: 'Jost', sans-serif;
 }
 
+/* login */
+/* .login {
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+} */
+
 .card {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
